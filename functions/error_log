@@ -1,0 +1,243 @@
+[05-Oct-2012 13:57:15] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 2
+[05-Oct-2012 13:57:15] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 2
+[05-Oct-2012 13:57:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 2
+[05-Oct-2012 13:57:15] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 3
+[05-Oct-2012 13:57:15] PHP Warning:  include(functions.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 3
+[05-Oct-2012 13:57:15] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'functions.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 3
+[05-Oct-2012 21:57:15] PHP Fatal error:  Call to undefined function  fnencrypt() in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 9
+[05-Oct-2012 13:58:06] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 7
+[05-Oct-2012 13:59:26] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 7
+[05-Oct-2012 14:00:09] PHP Parse error:  syntax error, unexpected '}' in /home/ynizipli/public_html/varmigelen.com/beta/functions/register.php on line 23
+[05-Oct-2012 14:00:53] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 7
+[05-Oct-2012 14:01:54] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 7
+[05-Oct-2012 14:02:22] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 7
+[05-Oct-2012 14:02:55] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 6
+[05-Oct-2012 14:03:36] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 6
+[05-Oct-2012 14:03:57] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 6
+[05-Oct-2012 14:05:48] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 6
+[05-Oct-2012 14:06:00] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 10
+[05-Oct-2012 14:06:27] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 15
+[05-Oct-2012 14:15:53] PHP Warning:  Missing argument 2 for fnEncrypt(), called in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 7 and defined in /home/ynizipli/public_html/varmigelen.com/beta/functions.php on line 23
+[05-Oct-2012 14:15:53] PHP Warning:  Missing argument 2 for fnEncrypt(), called in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 8 and defined in /home/ynizipli/public_html/varmigelen.com/beta/functions.php on line 23
+[05-Oct-2012 14:15:53] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions.php:23) in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 28
+[05-Oct-2012 14:26:09] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 2
+[05-Oct-2012 14:26:09] PHP Warning:  include(config.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 2
+[05-Oct-2012 14:26:09] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'config.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 2
+[05-Oct-2012 22:26:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:2) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 37
+[05-Oct-2012 14:36:23] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 11
+[05-Oct-2012 14:36:59] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 11
+[06-Oct-2012 00:44:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:31) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 32
+[05-Oct-2012 17:18:13] PHP Warning:  session_destroy() [<a href='function.session-destroy'>function.session-destroy</a>]: Trying to destroy uninitialized session in /home/ynizipli/public_html/varmigelen.com/beta/functions/logout.php on line 2
+[05-Oct-2012 17:18:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/logout.php:2) in /home/ynizipli/public_html/varmigelen.com/beta/functions/logout.php on line 3
+[05-Oct-2012 17:28:53] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 24
+[05-Oct-2012 17:38:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php:37) in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 40
+[05-Oct-2012 17:39:00] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php:37) in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 40
+[05-Oct-2012 17:41:08] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php:37) in /home/ynizipli/public_html/varmigelen.com/beta/functions/login.php on line 41
+[01-Nov-2012 12:48:40] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[02-Nov-2012 12:36:25] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:18:34] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:19:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:20:30] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:20:32] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:26:46] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 16
+[03-Nov-2012 05:26:50] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 16
+[03-Nov-2012 05:26:57] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 16
+[03-Nov-2012 05:28:25] PHP Parse error:  syntax error, unexpected ')' in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:28:36] PHP Parse error:  syntax error, unexpected ')' in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 20
+[03-Nov-2012 05:32:31] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[03-Nov-2012 05:32:43] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 14
+[05-Nov-2012 16:10:11] PHP Parse error:  syntax error, unexpected '*' in /home/ynizipli/public_html/varmigelen.com/beta/functions/show.php on line 29
+[05-Nov-2012 16:17:38] PHP Parse error:  syntax error, unexpected '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/show.php on line 6
+[05-Nov-2012 16:17:52] PHP Parse error:  syntax error, unexpected '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/show.php on line 8
+[05-Nov-2012 16:18:03] PHP Parse error:  syntax error, unexpected '{' in /home/ynizipli/public_html/varmigelen.com/beta/functions/show.php on line 8
+[05-Nov-2012 16:22:56] PHP Parse error:  syntax error, unexpected '}' in /home/ynizipli/public_html/varmigelen.com/beta/functions/show.php on line 18
+[06-Nov-2012 11:19:43] PHP Parse error:  syntax error, unexpected '[' in /home/ynizipli/public_html/varmigelen.com/beta/functions/show.php on line 7
+[09-Nov-2012 18:02:20] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 17
+[09-Nov-2012 18:02:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:17) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 28
+[09-Nov-2012 18:04:18] PHP Fatal error:  Class 'Date' not found in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 17
+[09-Nov-2012 10:58:16] PHP Parse error:  syntax error, unexpected ')' in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 32
+[10-Nov-2012 15:50:52] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 16
+[10-Nov-2012 15:51:01] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 17
+[10-Nov-2012 15:51:03] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 17
+[10-Nov-2012 15:51:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ynizipli'@'localhost' (using password: NO) in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 7
+[10-Nov-2012 15:51:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 7
+[10-Nov-2012 15:51:13] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 9
+[10-Nov-2012 15:51:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'ynizipli'@'localhost' (using password: NO) in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 14
+[10-Nov-2012 15:51:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 14
+[10-Nov-2012 16:06:11] PHP Parse error:  syntax error, unexpected T_STRING in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 29
+[10-Nov-2012 16:16:31] PHP Parse error:  syntax error, unexpected '}' in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 38
+[11-Nov-2012 00:19:11] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php:7) in /home/ynizipli/public_html/varmigelen.com/beta/functions/profile.php on line 28
+[26-Nov-2012 15:03:06] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/yeni/functions/acceptordeny.php on line 17
+[29-Nov-2012 10:24:43] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/yeni/functions/acceptordeny.php on line 9
+[29-Nov-2012 10:34:55] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/yeni/functions/acceptordeny.php on line 9
+[01-Dec-2012 22:28:13] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[08-Dec-2012 17:15:52] PHP Parse error:  syntax error, unexpected ';' in /home/ynizipli/public_html/varmigelen.com/beta/functions/acceptordeny.php on line 11
+[08-Dec-2012 17:18:51] PHP Parse error:  syntax error, unexpected T_LNUMBER in /home/ynizipli/public_html/varmigelen.com/beta/functions/acceptordeny.php on line 14
+[13-Dec-2012 12:45:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:37] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:44] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:45] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:46] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:47] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:45:55] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:46:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:46:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:46:31] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:46:40] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:47:00] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:47:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:47:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:25] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:26] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:27] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:33] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:34] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:48:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:49:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:49:24] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:49:32] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:49:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:49:50] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:50:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:50:14] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[13-Dec-2012 12:50:22] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/ynizipli/public_html/varmigelen.com/beta/functions/delete.php on line 11
+[18-Dec-2012 16:39:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:39:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:39:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:39:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:39:46] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:14] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:17] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:18] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:19] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:20] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:40:22] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php:32) in /home/ynizipli/public_html/varmigelen.com/beta/functions/add.php on line 33
+[18-Dec-2012 16:19:50] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Dec-2012 16:19:50] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[18-Dec-2012 16:20:16] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Dec-2012 16:20:16] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[18-Dec-2012 16:20:45] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Dec-2012 16:20:45] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[18-Dec-2012 16:21:13] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Dec-2012 16:21:13] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[18-Dec-2012 16:21:42] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[18-Dec-2012 16:21:42] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[19-Dec-2012 07:02:32] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Dec-2012 07:02:32] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[19-Dec-2012 08:33:15] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Dec-2012 08:33:15] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[19-Dec-2012 15:30:12] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Dec-2012 15:30:12] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[19-Dec-2012 15:30:47] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[19-Dec-2012 15:30:47] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[20-Dec-2012 10:37:28] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll' - /opt/php53/lib/php/extensions/no-debug-non-zts-20090626/php_openssl.dll: cannot open shared object file: No such file or directory in Unknown on line 0
+[20-Dec-2012 10:37:28] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
